@@ -1,3 +1,4 @@
+# My best imitation of tibetan bells...
 
 live_loop :tibetan_bells do
   sample :perc_bell, rate: rrand(0.0,1.0)
